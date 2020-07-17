@@ -1,6 +1,6 @@
 app:
   db:
-    url: jdbc:postgresql://postgres:5432/picpay-db
+    url: localhost:5432/picpay-db
     user: postgres
     pass: postgres
   rabbitmq:
