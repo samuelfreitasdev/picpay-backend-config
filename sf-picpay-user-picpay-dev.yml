@@ -1,0 +1,10 @@
+app:
+  db:
+    url: jdbc:postgresql://localhost:5432/picpay-db
+    user: postgres
+    pass: postgres
+  rabbitmq:
+    host: localhost
+    port: 5672
+    user: rabbit
+    pass: rabbit
