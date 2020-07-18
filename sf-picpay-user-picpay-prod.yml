@@ -1,6 +1,6 @@
 app:
   db:
-    url: localhost:5432/picpay-db
+    url: localhost:5432/picpay
     user: postgres
     pass: postgres
   rabbitmq:
